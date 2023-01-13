@@ -7,7 +7,6 @@ public class testSample {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		
 		dataDriven d = new dataDriven();
 		ArrayList<String> data = d.getData("add profile");
 		
